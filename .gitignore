@@ -15,3 +15,5 @@ desktop.ini
 # Logs & temp
 *.log
 *.tmp
+*.zip
+blender_assets/human_base_meshes/
